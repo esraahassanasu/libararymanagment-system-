@@ -164,5 +164,3 @@ Example members:
 * John Doe
 * Jane Smith
 
-
-Fresh Graduate in Computer Science with a strong interest in Backend Development using C# and .NET.
